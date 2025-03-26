@@ -9,6 +9,7 @@
   --fitness-intro-shadow-y: -.6em;
   --bottom-cta-radius: 3.125rem;
   --player-radius: 3.5rem;
+  --light-green: #83824c;
 }
 
 .w-layout-vflex {
@@ -1026,6 +1027,10 @@ blockquote {
   margin-top: 6rem;
   padding-top: 5vh;
   padding-bottom: 0;
+}
+
+.section.background-color-black {
+  background-color: var(--black);
 }
 
 .section.is-location {
@@ -2237,6 +2242,10 @@ blockquote {
 .paragraph-2 {
   font-size: 1.5rem;
   font-weight: 700;
+}
+
+.paragraph-3 {
+  font-style: italic;
 }
 
 @media screen and (max-width: 991px) {
