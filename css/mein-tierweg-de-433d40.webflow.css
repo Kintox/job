@@ -2948,6 +2948,7 @@ blockquote {
   }
 
   .heading-style-h1 {
+    text-shadow: 9px 6px 7px #0000001a;
     font-size: 5rem;
   }
 
